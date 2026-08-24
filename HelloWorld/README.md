@@ -1,18 +1,32 @@
-## Getting Started
+1. Are late programming assignments accepted?
+No, late assignments will not be accepted.   
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+2. Where will official course announcements be posted?
+Official course announcements, resources, and assignment updates will be posted on Piazza.   
 
-## Folder Structure
+3. How will examination dates be announced?
+Dates for the midterm and final examinations will be announced in class and posted on Piazza at least two weeks in advance.   
 
-The workspace contains two folders by default, where:
+4. Under what circumstances will a makeup examination be considered?
+Makeup examinations are granted only under extraordinary circumstances beyond the student's control. The student must notify the instructor as soon as reasonably possible and provide supporting documentation.   
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+5. Is AI permitted in this course?
+AI tools may be used only when permitted by the instructor or the specific assignment. When used, students remain fully responsible for the work and must be able to explain, modify, debug, and defend whatever they submit.   
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+6. Which course policy will have the greatest impact on your success this semester? Explain why (2–3 sentences).
+The No late work will have greatest impact. It'll help stay on track.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+7. When are office hours for LSP Fall 2026?
+Office hours are held by Zoom appointment.
 
-## Dependency Management
+8. What is your responsibility for monitoring Piazza, and are you responsible for assignment updates, clarifications, or deadline changes posted there?
+Students are expected to monitor Piazza regularly and are fully responsible for all announcements, resources, clarifications, assignment updates, and exam dates posted there. 
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+9. What documentation is required if you are unable to take an examination because of a medical issue or other approved circumstance?
+Appropriate supporting documentation that verifies you were unable to participate in the examination at the scheduled time is required 
+
+10. Does scholarship status entitle a student to different grading, deadline, attendance, or course requirements?
+
+No, all students are evaluated by the same standard course policies, deadlines, grading scale, and requirements regardless of external or scholarship status.
+
+I acknowledge that I have read the course syllabus and understand that I am responsible for complying with all course policies, assignment requirements, and monitoring Piazza throughout the semester.
